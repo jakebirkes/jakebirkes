@@ -2,7 +2,7 @@
 
 :student: Recently graduated from BTC in Computer Networking
 
-:seedling: I’m currently learning React & API development
+:seedling: Currently learning React & API development
 
 💬 Ask me about [AMP:zap:](https://github.com/ampproject/amphtml)
 
