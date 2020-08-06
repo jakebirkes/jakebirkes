@@ -1,6 +1,8 @@
 :mortar_board: Recently graduated from BTC in Computer Networking
 
-:computer: Currently learning React & API development
+:computer: Practicing [CUBE CSS](https://piccalil.li/blog/cube-css/)
+
+:shopping_cart: Currently building a React shopping cart 
 
 :notebook: Blog Update: July 11, 2020 ["What Is A Mutation Observer?"](https://jakewantulok.com/mutation-observer)
 
@@ -8,6 +10,5 @@
 
 📫 wantulok.jake@gmail.com
 
-😄 Pronouns: He/Him
-
 :book: Rereading Dune
+
