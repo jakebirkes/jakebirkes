@@ -1,8 +1,6 @@
 :mortar_board: Recently graduated from BTC in Computer Networking
 
-:computer: Practicing [CUBE CSS](https://piccalil.li/blog/cube-css/)
-
-:shopping_cart: Currently building a React shopping cart 
+:shopping_cart: Currently building a React storefront
 
 :notebook: Blog Update: July 11, 2020 ["What Is A Mutation Observer?"](https://jakewantulok.com/mutation-observer)
 
@@ -10,5 +8,6 @@
 
 📫 wantulok.jake@gmail.com
 
-:book: Rereading Dune
+:book: Reading Dune again
 
+*"I must not hype. Hype is the mind-killer. Hype is the little-death that brings inflated expectations."*
