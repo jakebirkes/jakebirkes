@@ -4,4 +4,4 @@
 
 📫 wantulok.jake@gmail.com
 
-:computer: [![AMP](./img/amp.svg)](https://amp.dev/) [![PWA](./img/pwa.svg)](https://web.dev/progressive-web-apps/) [![React](./img/react.svg)](https://reactjs.org/) [![Gatsby](./img/gatsby.svg)](https://www.gatsbyjs.com/)
+[![AMP](./img/amp.svg)](https://amp.dev/) [![PWA](./img/pwa.svg)](https://web.dev/progressive-web-apps/) [![React](./img/react.svg)](https://reactjs.org/) [![Gatsby](./img/gatsby.svg)](https://www.gatsbyjs.com/)
