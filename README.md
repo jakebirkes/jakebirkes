@@ -1,6 +1,6 @@
 :shopping_cart: Building a React storefront
 
-:notebook: Blog Update: July 11, 2020 ["What Is A Mutation Observer?"](https://jakewantulok.com/mutation-observer)
+:notebook: October 12, 2020: ["React Context with Hooks"](https://jakewantulok.com/react-context-with-hooks)
 
 📫 wantulok.jake@gmail.com
 
