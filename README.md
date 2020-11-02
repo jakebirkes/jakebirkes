@@ -1,4 +1,4 @@
-:shopping_cart: Building a React storefront
+<img width="20" src="https://raw.githubusercontent.com/jakewantulok/botw-beedles-shop/main/public/beedle.ico"> Working on [Beedle's Shop](https://github.com/jakewantulok/botw-beedles-shop)
 
 :notebook: October 12, 2020: ["React Context with Hooks"](https://jakewantulok.com/react-context-with-hooks)
 
