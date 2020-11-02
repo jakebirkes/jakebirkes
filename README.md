@@ -1,4 +1,4 @@
-<img width="20" src="https://raw.githubusercontent.com/jakewantulok/botw-beedles-shop/main/public/beedle.ico"> Working on [Beedle's Shop](https://github.com/jakewantulok/botw-beedles-shop)
+<a href="https://github.com/jakewantulok" disabled><img width="20" src="https://raw.githubusercontent.com/jakewantulok/botw-beedles-shop/main/public/beedle.ico"> Working on [Beedle's Shop](https://github.com/jakewantulok/botw-beedles-shop)</a>
 
 :notebook: October 12, 2020: ["React Context with Hooks"](https://jakewantulok.com/react-context-with-hooks)
 
